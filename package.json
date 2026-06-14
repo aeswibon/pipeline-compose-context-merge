@@ -1,4 +1,5 @@
 {
   "name": "pipeline-compose-context-merge",
-  "private": true
+  "private": true,
+  "description": "GitHub Action published from pipeline-compose monorepo"
 }
